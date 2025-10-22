@@ -1,0 +1,12 @@
+{
+    "name": "nazia",
+    "age": 22,
+    "Hobbies": [
+        "reading",
+        "coding"
+    ],
+    "address": {
+        "city": "khoski",
+        "postal code": "7890"
+    }
+}
